@@ -1,1 +1,1 @@
-# MimicModpack
+# Mimic Modpack
