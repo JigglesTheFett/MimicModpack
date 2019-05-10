@@ -42,8 +42,8 @@
     "Name": "zincchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:30",
-    "Drop Item": "alchemistry:ingot:30",
+    "Lay Item": "techreborn:ingot:18",
+    "Drop Item": "techreborn:ingot:18",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:whitechicken",
     "Parent 2": "chickens:claychicken"
@@ -52,8 +52,8 @@
     "Name": "tinchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:50",
-    "Drop Item": "alchemistry:ingot:50",
+    "Lay Item": "thermalfoundation:material:129",
+    "Drop Item": "thermalfoundation:material:129",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:whitechicken",
     "Parent 2": "chickens:claychicken"
@@ -72,8 +72,8 @@
     "Name": "silverorechicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:47",
-    "Drop Item": "alchemistry:ingot:47",
+    "Lay Item": "thermalfoundation:material:130",
+    "Drop Item": "thermalfoundation:material:130",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "chickens:whitechicken"
@@ -82,8 +82,8 @@
     "Name": "platinumchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:78",
-    "Drop Item": "alchemistry:ingot:78",
+    "Lay Item": "thermalfoundation:material:134",
+    "Drop Item": "thermalfoundation:material:134",
     "Spawn Type": "NONE",
     "Parent 1": "morechickens:nickelchicken",
     "Parent 2": "morechickens:silverorechicken"
@@ -92,8 +92,8 @@
     "Name": "nickelchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:28",
-    "Drop Item": "alchemistry:ingot:28",
+    "Lay Item": "thermalfoundation:material:133",
+    "Drop Item": "thermalfoundation:material:133",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:whitechicken",
     "Parent 2": "chickens:greenchicken"
@@ -102,8 +102,8 @@
     "Name": "leadchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:82",
-    "Drop Item": "alchemistry:ingot:82",
+    "Lay Item": "thermalfoundation:material:131",
+    "Drop Item": "thermalfoundation:material:131",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "chickens:cyanchicken"
@@ -112,8 +112,8 @@
     "Name": "copperchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:29",
-    "Drop Item": "alchemistry:ingot:29",
+    "Lay Item": "thermalfoundation:material:128",
+    "Drop Item": "thermalfoundation:material:128",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:yellowchicken",
     "Parent 2": "chickens:brownchicken"
@@ -172,8 +172,8 @@
     "Name": "aluminumChicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:13",
-    "Drop Item": "alchemistry:ingot:13",
+    "Lay Item": "thermalfoundation:material:132",
+    "Drop Item": "thermalfoundation:material:132",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:flintchicken",
     "Parent 2": "chickens:ironchicken"
@@ -462,8 +462,8 @@
     "Name": "uraniumChicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:92",
-    "Drop Item": "alchemistry:ingot:92",
+    "Lay Item": "nuclearcraft:ingot:4",
+    "Drop Item": "nuclearcraft:ingot:4",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:redstonechicken",
     "Parent 2": "chickens:enderchicken"
@@ -612,8 +612,8 @@
     "Name": "cobaltChicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:27",
-    "Drop Item": "alchemistry:ingot:27",
+    "Lay Item": "tconstruct:ingots",
+    "Drop Item": "tconstruct:ingots",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:netherwartchicken",
     "Parent 2": "chickens:ghastchicken"
@@ -818,16 +818,6 @@
     "Parent 1": "morechickens:magicalwoodchicken",
     "Parent 2": "morechickens:moonstonechicken"
   },
-  "morechickens:quartzenrichedironchicken": {
-    "Name": "quartzenrichedironchicken",
-    "Is Enabled": true,
-    "Lay Coefficient": 1.0,
-    "Lay Item": "refinedstorage:quartz_enriched_iron",
-    "Drop Item": "refinedstorage:quartz_enriched_iron",
-    "Spawn Type": "NONE",
-    "Parent 1": "chickens:quartzchicken",
-    "Parent 2": "chickens:ironchicken"
-  },
   "morechickens:yellowgarnetchicken": {
     "Name": "yellowgarnetchicken",
     "Is Enabled": true,
@@ -852,8 +842,8 @@
     "Name": "titaniumchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:22",
-    "Drop Item": "alchemistry:ingot:22",
+    "Lay Item": "techreborn:ingot:14",
+    "Drop Item": "techreborn:ingot:14",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:ironchicken",
     "Parent 2": "morechickens:aluminumchicken"
@@ -862,8 +852,8 @@
     "Name": "tungstenchicken",
     "Is Enabled": true,
     "Lay Coefficient": 1.0,
-    "Lay Item": "alchemistry:ingot:74",
-    "Drop Item": "alchemistry:ingot:74",
+    "Lay Item": "techreborn:ingot:15",
+    "Drop Item": "techreborn:ingot:15",
     "Spawn Type": "NONE",
     "Parent 1": "chickens:enderchicken",
     "Parent 2": "morechickens:refinedironchicken"

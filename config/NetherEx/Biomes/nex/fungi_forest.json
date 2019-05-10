@@ -61,14 +61,6 @@
       "spawn": true
     },
     {
-      "entity": "morerefinedstorage:glaceskeleton",
-      "creatureType": "monster",
-      "weight": 100,
-      "minGroupCount": 1,
-      "maxGroupCount": 4,
-      "spawn": true
-    },
-    {
       "entity": "thaumcraft:firebat",
       "creatureType": "monster",
       "weight": 10,
@@ -85,11 +77,275 @@
       "spawn": true
     },
     {
-      "entity": "natura:nitrocreeper",
+      "entity": "bewitchment:uran",
       "creatureType": "monster",
-      "weight": 8,
-      "minGroupCount": 4,
-      "maxGroupCount": 6,
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound_alpha",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:black_dog",
+      "creatureType": "monster",
+      "weight": 20,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "chickens:chickenschicken",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 3,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:uran",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound_alpha",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:black_dog",
+      "creatureType": "monster",
+      "weight": 20,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "chickens:chickenschicken",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 3,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:uran",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound_alpha",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:black_dog",
+      "creatureType": "monster",
+      "weight": 20,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "chickens:chickenschicken",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 3,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:uran",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound_alpha",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:black_dog",
+      "creatureType": "monster",
+      "weight": 20,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "chickens:chickenschicken",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 3,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:uran",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound_alpha",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:black_dog",
+      "creatureType": "monster",
+      "weight": 20,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "chickens:chickenschicken",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 3,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:uran",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound_alpha",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:black_dog",
+      "creatureType": "monster",
+      "weight": 20,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "chickens:chickenschicken",
+      "creatureType": "creature",
+      "weight": 10,
+      "minGroupCount": 3,
+      "maxGroupCount": 5,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:uran",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound",
+      "creatureType": "monster",
+      "weight": 6,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:hellhound_alpha",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "bewitchment:black_dog",
+      "creatureType": "monster",
+      "weight": 20,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
       "spawn": true
     },
     {
