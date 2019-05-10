@@ -1,0 +1,209 @@
+{
+  "worldMidHeight": 150,
+  "mountainHeight": 2.5,
+  "zone1Y": 100,
+  "zone2Y": 65,
+  "zone3Y": 30,
+  "enableMineshafts": true,
+  "mineshaftRarity": 0.008,
+  "oreConfigList": [
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "coal_ore"
+      },
+      "size": 17,
+      "count": 20,
+      "bottomOffset": 100,
+      "topOffset": 0,
+      "maxY": 256
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "iron_ore"
+      },
+      "size": 13,
+      "count": 20,
+      "bottomOffset": 100,
+      "topOffset": 0,
+      "maxY": 256
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "coal_ore"
+      },
+      "size": 17,
+      "count": 10,
+      "bottomOffset": 65,
+      "topOffset": 0,
+      "maxY": 100
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "iron_ore"
+      },
+      "size": 14,
+      "count": 10,
+      "bottomOffset": 65,
+      "topOffset": 0,
+      "maxY": 100
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "gold_ore"
+      },
+      "size": 9,
+      "count": 4,
+      "bottomOffset": 65,
+      "topOffset": 0,
+      "maxY": 35
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "coal_ore"
+      },
+      "size": 13,
+      "count": 10,
+      "bottomOffset": 30,
+      "topOffset": 0,
+      "maxY": 65
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "iron_ore"
+      },
+      "size": 13,
+      "count": 15,
+      "bottomOffset": 30,
+      "topOffset": 0,
+      "maxY": 65
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "gold_ore"
+      },
+      "size": 14,
+      "count": 4,
+      "bottomOffset": 30,
+      "topOffset": 0,
+      "maxY": 65
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "redstone_ore"
+      },
+      "size": 14,
+      "count": 8,
+      "bottomOffset": 30,
+      "topOffset": 0,
+      "maxY": 65
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "lapis_ore"
+      },
+      "size": 7,
+      "count": 4,
+      "bottomOffset": 30,
+      "topOffset": 0,
+      "maxY": 65
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "diamond_ore"
+      },
+      "size": 6,
+      "count": 1,
+      "bottomOffset": 0,
+      "topOffset": 0,
+      "maxY": 30
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "coal_ore"
+      },
+      "size": 9,
+      "count": 5,
+      "bottomOffset": 0,
+      "topOffset": 0,
+      "maxY": 30
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "iron_ore"
+      },
+      "size": 13,
+      "count": 10,
+      "bottomOffset": 0,
+      "topOffset": 0,
+      "maxY": 30
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "gold_ore"
+      },
+      "size": 14,
+      "count": 4,
+      "bottomOffset": 0,
+      "topOffset": 0,
+      "maxY": 30
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "redstone_ore"
+      },
+      "size": 14,
+      "count": 8,
+      "bottomOffset": 0,
+      "topOffset": 0,
+      "maxY": 30
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "lapis_ore"
+      },
+      "size": 7,
+      "count": 3,
+      "bottomOffset": 0,
+      "topOffset": 0,
+      "maxY": 30
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "emerald_ore"
+      },
+      "size": 8,
+      "count": 4,
+      "bottomOffset": 0,
+      "topOffset": 0,
+      "maxY": 30
+    },
+    {
+      "blockIdentifier": {
+        "field_13353": "minecraft",
+        "field_13355": "diamond_ore"
+      },
+      "size": 8,
+      "count": 4,
+      "bottomOffset": 0,
+      "topOffset": 0,
+      "maxY": 30
+    }
+  ]
+}
