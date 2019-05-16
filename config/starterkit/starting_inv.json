@@ -3,7 +3,11 @@
     {
       "item": "starterkit:starterkit",
       "count": 1
-    }
+    },
+	{
+	  "item": "akashictome:tome",
+	  "count": 1
+	}
   ],
   "commands": []
 }

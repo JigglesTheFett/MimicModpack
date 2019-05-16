@@ -1,0 +1,11 @@
+{
+  "claimlimit": 0,
+  "localizedname": "Akashic Tome",
+  "stacks": [
+    {
+      "item": "akashictome:tome",
+      "count": 1
+    }
+	],
+  "commands": []
+}
