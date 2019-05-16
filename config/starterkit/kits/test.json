@@ -1,0 +1,33 @@
+{
+  "claimlimit": 0,
+  "localizedname": "Mimic Starter Kit",
+  "stacks": [
+    {
+      "item": "akashictome:tome",
+      "count": 1,
+      "nbt": {
+        "display": {
+          "Lore": [
+            "The Best Book",
+                      ],
+          "Name": "Akashic Tome"
+        }
+		}
+		}
+		},
+            {
+      "item": "minecraft:stone_pickaxe",
+      "count": 1
+    },
+    {
+      "item": "minecraft:torch",
+      "count": 16
+    }
+  ],
+  "r": 180,
+  "g": 180,
+  "b": 180,
+  "textR": 255,
+  "textG": 255,
+  "textB": 255
+}
