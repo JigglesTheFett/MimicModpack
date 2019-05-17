@@ -295,14 +295,13 @@ print(" ==================================================== ");
 			},
 			}
 		}
-	}
 	
 	);
 
 	//metadata to item
 	completeTome.addTooltip(format.aqua("Better this than a ton of books!"));
 	mods.jei.JEI.addDescription(completeTome, "Books within books within books",
-											  );
+											  
 
 	//add the full book to JEI as it's own entry
 	mods.jei.JEI.addItem(completeTome);
