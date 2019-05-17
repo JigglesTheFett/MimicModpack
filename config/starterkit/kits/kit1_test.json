@@ -3,7 +3,7 @@
   "localizedname": "Akashic Tome",
   "stacks": [
     {
-      "item": "akashictome:tome",
+      "item": "completetome",
       "count": 1
     }
 	],
