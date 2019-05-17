@@ -335,23 +335,18 @@ print(" ==================================================== ");
 		<cookingforblockheads:recipe_book:1>, 
 		<xnet:xnet_manual>, 
 		<rftoolscontrol:rftoolscontrol_manual>, 
-		<integrateddynamics:on_the_dynamics_of_integration>, 
 		<wizardry:book>, 
 		<rftoolsdim:rftoolsdim_manual>, 
 		<roots:herblore_book>, 
 		<rftools:rftools_shape_manual>, 
-		<guideapi:mobtotems-mobtotems_guide>, 
 		<openblocks:info_book>,
-		<forestry:book_forester>,
 		<guideapi:woot-guide>,
 		<ebwizardry:wizard_handbook>,
 		<practicallogistics2:plguide>,
 		<conarm:book>,
 		<guideapi:inventorygenerators-guide_book>,
 		<valkyrielib:guide>,
-		<deepresonance:dr_manual>,
-		<modcurrency:guidebook>,
-		<gbook:guidebook>.withTag({Book:"minecolonies:book/minecolonies.xml"})
+		<deepresonance:dr_manual>
 		] as IItemStack[];
 
 	for itemBook in addedBooks {
