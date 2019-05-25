@@ -6,4 +6,4 @@ Inscriber.addRecipe(<appliedenergistics2:material:14>, <minecraft:iron_block>, f
 //Logic Press
 Inscriber.addRecipe(<appliedenergistics2:material:15>, <minecraft:iron_block>, false, <minecraft:gold_ingot>, <minecraft:gold_ingot>);
 //Silicon Press
-Inscriber.addRecipe(<appliedenergistics2:material:19>, <minecraft:iron_block>, false, <appliedenergistics2:material:5>, <appliedenergistics2:material:5>);
+Inscriber.addRecipe(<appliedenergistics2:material:19>, <minecraft:iron_block>, false, <appliedenergistics2:material:5>, <appliedenergistics2:material:5>)
