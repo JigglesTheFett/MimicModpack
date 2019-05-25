@@ -1,3 +1,4 @@
+import mods.appliedenergistics2.Inscriber;
 //Calculation Press
 Inscriber.addRecipe(<appliedenergistics2:material:13>, <minecraft:iron_block>, false, <appliedenergistics2:material>, <appliedenergistics2:material>);
 //Engineering Press

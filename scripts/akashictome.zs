@@ -334,7 +334,7 @@ print(" ==================================================== ");
 		<opencomputers:tool:4>, 
 		<cookingforblockheads:recipe_book:1>, 
 		<xnet:xnet_manual>, 
-		<rftoolscontrol:rftoolscontrol_manual>, 
+		<rftoolscontrol:rftoolscontrol_manual>,  
 		<wizardry:book>, 
 		<rftoolsdim:rftoolsdim_manual>, 
 		<roots:herblore_book>, 
