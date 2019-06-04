@@ -3,7 +3,7 @@
 
   <recipe name="Enchanter: OE Integration Excavate Enchantment" required="true" disabled="false">
     <enchanting>
-      <input name="oeintegration:excavatemodifier" amount="5"/>
+      <input name="oeintegration:excavatemodifier" amount="1"/>
       <enchantment name="oeintegration:oreexcavation" costMultiplier="1"/>
     </enchanting>
   </recipe>
