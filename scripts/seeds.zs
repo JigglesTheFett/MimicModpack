@@ -1,3 +1,1 @@
-import crafttweaker.recipes.ICraftingrecipe;
-
-recipes.removeShapeless(<minecraft:seeds> * 2, [<minecraft:wheat>, <minecraft:wheat>]);
+recipes.removeShapeless(<minecraft:wheat_seeds> * 2, [<minecraft:wheat>, <minecraft:wheat>]);
